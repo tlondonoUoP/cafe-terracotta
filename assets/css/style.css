@@ -51,3 +51,60 @@ nav ul li a {
 nav ul li a:hover {
     color: #ffd700; /* Gold color on hover */
 }
+
+/* Page Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f1e4;
+    color: #5a3e36;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Navigation */
+nav {
+    background-color: #8b4513;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #ffd700;
+}
+
+/* Headings */
+h1 {
+    color: #8b4513;
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #d2691e;
+    font-size: 24px;
+}
+
+/* Footer */
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #8b4513;
+    color: white;
+}
