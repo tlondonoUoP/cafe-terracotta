@@ -1,0 +1,25 @@
+/* Café Terracotta Custom Styles */
+body {
+    background-color: #f5ebe0; /* Warm coffee-inspired beige */
+    color: #5c4033; /* Rich brown text */
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #8b4513; /* Darker brown for headlines */
+}
+
+.navbar {
+    background-color: #d4a373; /* Light terracotta shade */
+    padding: 10px;
+    text-align: center;
+}
+
+.button {
+    background-color: #8b4513; /* Coffee brown */
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
